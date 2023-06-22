@@ -3,7 +3,7 @@
 # Progress:
 | Id | Module Session                                | Progress |
 |----|-----------------------------------------------|----------|
-|01  | Introduction & Prerequisites    | ⌛     |
+|01  | Introduction & Prerequisites    | ✔️     |
 |02  | Workflow Orchestration          | ⌛     |
 |03  | Data Warehouse                  | ⌛     |
 |04  | Analytics Engineering           | ⌛     |
